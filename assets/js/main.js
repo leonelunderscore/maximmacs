@@ -237,7 +237,7 @@
         Team Active
     -----------------------------------*/
     var swiper = new Swiper(".team-active", {
-        slidesPerView: 4,
+        slidesPerView: 3,
         spaceBetween: 30,
         loop: true,
         pagination: {
@@ -254,9 +254,6 @@
           },
           992: {
             slidesPerView: 3,
-          },
-          1200: {
-            slidesPerView: 4,
           },
         },
     });
