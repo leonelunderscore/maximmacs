@@ -9,10 +9,10 @@
 
 
 -----------------------------------------------------------------------------------
-    
+
     CSS INDEX
     ===================
-	
+
     01. Theme default CSS
     02. Header CSS
     2.1. Header Top CSS
@@ -42,7 +42,7 @@
     25. Contact CSS
     26. Footer CSS
     26.1. Footer Widget CSS
-	
+
 
 -----------------------------------------------------------------------------------*/
 /*----------------------------------------*/
@@ -1614,8 +1614,8 @@ textarea:-ms-input-placeholder {
 }
 
 .corpix-hero-section .hero-content .title {
-  font-size: 110px;
-  line-height: 150px;
+  font-size: 64px;
+  line-height: 50px;
   font-family: "Antonio", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
@@ -1639,8 +1639,8 @@ textarea:-ms-input-placeholder {
 
 @media only screen and (max-width: 1399px) {
   .corpix-hero-section .hero-content .title {
-    font-size: 100px;
-    line-height: 135px;
+    font-size: 50px;
+    line-height: 50px;
   }
 }
 
@@ -1674,8 +1674,8 @@ textarea:-ms-input-placeholder {
     padding-top: 105px;
   }
   .corpix-hero-section .hero-content .title {
-    font-size: 80px;
-    line-height: 100px;
+    font-size: 32px;
+    line-height: 35px;
   }
 }
 
@@ -1706,8 +1706,8 @@ textarea:-ms-input-placeholder {
     padding-top: 70px;
   }
   .corpix-hero-section .hero-content .title {
-    font-size: 60px;
-    line-height: 80px;
+    font-size: 28px;
+    line-height: 40px;
   }
   .corpix-hero-section .hero-content .sub-title {
     font-size: 25px;
@@ -1728,8 +1728,8 @@ textarea:-ms-input-placeholder {
     max-width: 280px;
   }
   .corpix-hero-section .hero-content .title {
-    font-size: 50px;
-    line-height: 70px;
+    font-size: 32px;
+    line-height: 32px;
   }
   .corpix-hero-section .hero-content .sub-title {
     font-size: 20px;
