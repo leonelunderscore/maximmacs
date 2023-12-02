@@ -1610,7 +1610,7 @@ textarea:-ms-input-placeholder {
 }
 
 .corpix-hero-section .hero-content {
-  padding-top: 210px;
+  /*padding-top: 210px;*/
 }
 
 .corpix-hero-section .hero-content .title {
@@ -1671,7 +1671,7 @@ textarea:-ms-input-placeholder {
     height: 590px;
   }
   .corpix-hero-section .hero-content {
-    padding-top: 105px;
+    /*padding-top: 105px;*/
   }
   .corpix-hero-section .hero-content .title {
     font-size: 32px;
@@ -1703,7 +1703,7 @@ textarea:-ms-input-placeholder {
     height: 480px;
   }
   .corpix-hero-section .hero-content {
-    padding-top: 70px;
+    /*padding-top: 70px;*/
   }
   .corpix-hero-section .hero-content .title {
     font-size: 28px;
