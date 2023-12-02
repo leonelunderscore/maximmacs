@@ -56,6 +56,15 @@
   margin: 0;
   padding: 0;
 }
+@font-face {
+  font-family: "Verdana";
+  src: url("https://db.onlinewebfonts.com/t/562fa31bba08b3f71cb71257ddb880d5.eot");
+  src: url("https://db.onlinewebfonts.com/t/562fa31bba08b3f71cb71257ddb880d5.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/562fa31bba08b3f71cb71257ddb880d5.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/562fa31bba08b3f71cb71257ddb880d5.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/562fa31bba08b3f71cb71257ddb880d5.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/562fa31bba08b3f71cb71257ddb880d5.svg#Verdana")format("svg");
+}
 
 body {
   font-size: 15px;
@@ -76,7 +85,7 @@ body[dir="rtl"] {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Antonio", sans-serif;
+  font-family: "Verdana", sans-serif;
   color: #072f60;
   font-weight: 700;
   margin-top: 0;
@@ -296,7 +305,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .section-title .title {
   font-size: 60px;
   line-height: 80px;
-  font-family: "Antonio", sans-serif;
+  font-family: "Verdana", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   text-shadow: 5px 11px 1px #d4d4d4;
@@ -320,7 +329,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .section-title .sub-title {
   font-size: 24px;
   line-height: 30px;
-  font-family: "Antonio", sans-serif;
+  font-family: "Verdana", sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #5fbb46;
